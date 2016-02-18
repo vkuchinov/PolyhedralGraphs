@@ -1,7 +1,7 @@
 /*
 
 GRAPH PARSER
-frommodified SVG
+from modified SVG
 
 @author  Vladimir V. KUCHINOV
 @email   helloworld@vkuchinov.co.uk
@@ -11,14 +11,13 @@ frommodified SVG
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
-
 final String URL = "ZamfirescuGraph.svg";
 
 pointList points = new pointList();
 
 void setup(){
   
-     size(800, 800,"processing.core.PGraphicsRetina2D"); 
+     size(600, 600,"processing.core.PGraphicsRetina2D"); 
      
      XML xml = loadXML(URL);
      XML[] xmlPoints = xml.getChildren("circle");
