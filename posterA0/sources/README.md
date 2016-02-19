@@ -15,11 +15,11 @@ based on
 	</tr>
 	<tr>
 		<td>[x] Bislit Cube</td>
-		<td>[-] Circular Ladder Graph</td>
-		<td>[-] Completely Regular Graph</td>
+		<td>[!] Circular Ladder Graph*</td>
+		<td>[!] Completely Regular Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Cubic Polyhedral Graph</td>
+		<td>[!] Cubic Polyhedral Graph</td>
 		<td>[-] Cubical Graph</td>
 		<td>[-] Cuboctahedral Graph</td>
 	</tr>
@@ -125,4 +125,6 @@ based on
 	</tr>
 </table>
 
+ * - Prism Graph
+ 
  [x] done [!] no information or general group [-] planning
