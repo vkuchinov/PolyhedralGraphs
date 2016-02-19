@@ -115,8 +115,8 @@ based on
 	</tr>
 	<tr>
 		<td>[x] Tutte's Graph</td>
-		<td>[-] Tutte's Wheel Theorem</td>
-		<td>[-] Wiener-Araya Graph</td>
+		<td>[!] Tutte's Wheel Theorem</td>
+		<td>[x] Wiener-Araya Graph</td>
 	</tr>
 	<tr>
 		<td>[x] Zamfirescu Graphs</td>
