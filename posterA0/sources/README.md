@@ -6,10 +6,10 @@ based on
 	<tr>
 		<td>[x] Antiprism Graph</td>
 		<td>[x] Apollonian Network</td>
-		<td>[-] Archimedean Dual Graph</td>
+		<td>[x] Archimedean Dual Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Archimedean Graph</td>
+		<td>[!] Archimedean Graph</td>
 		<td>[x] Barnette-Bosák-Lederberg Graph</td>
 		<td>[x] Bidiakis Cube</td>
 	</tr>
@@ -41,12 +41,12 @@ based on
 	<tr>
 		<td>[-] Fritsch Graph</td>
 		<td>[x] Fullerene</td>
-		<td>[-] Goldner-Harary Graph</td>
+		<td>[x] Goldner-Harary Graph</td>
 	</tr>
 	<tr>
 		<td>[-] Great Rhombicosidodecahedral Graph</td>
 		<td>[-] Great Rhombicuboctahedral Graph</td>
-		<td>[-] Grinberg Graphs</td>
+		<td>[x] Grinberg Graphs</td>
 	</tr>
 	<tr>
 		<td>[-] Halin Graph</td>
@@ -56,7 +56,7 @@ based on
 	<tr>
 		<td>[x] Heawood Four-Color Graph</td>
 		<td>[x] Heptahedral Graph</td>
-		<td>[-] Herschel Graph</td>
+		<td>[x] Herschel Graph</td>
 	</tr>
 	<tr>
 		<td>[-] Hexahedral Graph</td>
@@ -64,7 +64,7 @@ based on
 		<td>[-] Icosian Game</td>
 	</tr>
 	<tr>
-		<td>[-] Icosidodecahedral Graph</td>
+		<td>[x] Icosidodecahedral Graph</td>
 		<td>[x] Kittell Graph</td>
 		<td>[-] Nonahedral Graph</td>
 	</tr>
@@ -85,12 +85,12 @@ based on
 	</tr>
 	<tr>
 		<td>[-] Prism Graph</td>
-		<td>[-] Rhombic Dodecahedral Graph</td>
+		<td>[x] Rhombic Dodecahedral Graph</td>
 		<td>[-] Schlegel Graph</td>
 	</tr>
 	<tr>
 		<td>[-] Skeleton</td>
-		<td>[-] Small Rhombicosidodecahedral Graph</td>
+		<td>[x] Small Rhombicosidodecahedral Graph</td>
 		<td>[-] Small Triakis Octahedral Graph</td>
 	</tr>
 	<tr>
@@ -101,10 +101,10 @@ based on
 	<tr>
 		<td>[-] Tetrahedral Graph</td>
 		<td>[-] Tetrakis Hexahedral Graph</td>
-		<td>[-] Triakis Icosahedral Graph</td>
+		<td>[x] Triakis Icosahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Triakis Tetrahedral Graph</td>
+		<td>[x] Triakis Tetrahedral Graph</td>
 		<td>[-] Truncated Cubical Graph</td>
 		<td>[-] Truncated Dodecahedral Graph</td>
 	</tr>
@@ -125,4 +125,4 @@ based on
 	</tr>
 </table>
 
- [x] done [!] no information [-] planning
+ [x] done [!] no information or general group [-] planning
