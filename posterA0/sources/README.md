@@ -14,7 +14,7 @@ based on
 		<td>[x] Bidiakis Cube</td>
 	</tr>
 	<tr>
-		<td>[-] Bislit Cube</td>
+		<td>[x] Bislit Cube</td>
 		<td>[-] Circular Ladder Graph</td>
 		<td>[-] Completely Regular Graph</td>
 	</tr>
