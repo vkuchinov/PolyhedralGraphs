@@ -125,6 +125,6 @@ based on
 	</tr>
 </table>
 
- * - Prism Graph
+ * Prism Graph
  
  [x] done [!] no information or general group [-] planning
