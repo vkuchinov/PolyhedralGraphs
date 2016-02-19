@@ -4,79 +4,44 @@ based on
 
 <table border="0" style="background-color:#FFFFFF;border-collapse:collapse;border:0px solid #FFCC00;color:#000000;width:520" cellpadding="0" cellspacing="0">
 	<tr>
-		<td>[-] Anti-Aliasing</td>
-		<td>[-] Moiré Pattern</td>
-		<td>[-] Simplex Plot</td>
+		<td>[x] Antiprism Graph</td>
+		<td>[x] Apollonian Network</td>
+		<td>[-] Archimedean Dual Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Antialiasing</td>
-		<td>[-] Ordinate</td>
-		<td>[-] Slope Field</td>
+		<td>[-] Archimedean Graph</td>
+		<td>[x] Barnette-Bosák-Lederberg Graph</td>
+		<td>[x] Bidiakis Cube</td>
 	</tr>
 	<tr>
-		<td>[-] Bar Chart</td>
-		<td>[-] Phase Curve</td>
-		<td>[-] Sparkline</td>
+		<td>[-] Bislit Cube</td>
+		<td>[-] Circular Ladder Graph</td>
+		<td>[-] Completely Regular Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Binary Plot</td>
-		<td>[-] Phase Flow</td>
-		<td>[-] Strang's Strange Figures</td>
+		<td>[-] Cubic Polyhedral Graph</td>
+		<td>[-] Cubical Graph</td>
+		<td>[-] Cuboctahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Cartesian Plot</td>
-		<td>[-] Phase Plane</td>
-		<td>[-] Surface of Section</td>
+		<td>[-] Decahedral Graph</td>
+		<td>[x] Deltoidal Hexecontahedral Graph</td>
+		<td>[-] Deltoidal Icositetrahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Data Cube</td>
-		<td>[-] Phase Portrait</td>
-		<td>[-] Ternary Diagram</td>
+		<td>[-] Disdyakis Dodecahedral Graph</td>
+		<td>[-] Disdyakis Dodecahedron</td>
+		<td>[-] Disdyakis Triacontahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] de Finetti Diagram</td>
-		<td>[-] Phase Space</td>
-		<td>[-] Ternary Graph</td>
+		<td>[-] Dodecahedral Graph</td>
+		<td>[-] Errera Graph</td>
+		<td>[x] Faulkner-Younger Graphs</td>
 	</tr>
 	<tr>
-		<td>[-] Equipotential Curve</td>
-		<td>[-] Pie Chart</td>
-		<td>[-] Ternary Plot</td>
-	</tr>
-	<tr>
-		<td>[-] Function Graph</td>
-		<td>[-] Poincaré Section</td>
-		<td>[-] Tetraview</td>
-	</tr>
-	<tr>
-		<td>[-] Inside-Outside Plot</td>
-		<td>[-] Pólya Plot</td>
-		<td>[-] Triangle Plot</td>
-	</tr>
-	<tr>
-		<td>[-] Level Curve</td>
-		<td>[-] Recurrence Plot</td>
-		<td>[-] Tupper's Self-Referent</td>
-	</tr>
-	<tr>
-		<td>[-] Level Set</td>
-		<td>[-] Saunders Graphic</td>
-		<td>[-] Vector Field</td>
-	</tr>
-	<tr>
-		<td>[-] Level Surface</td>
-		<td>[-] Scatter Diagram</td>
-		<td>[-] Web Diagram</td>
-	</tr>
-	<tr>
-		<td>[-] Log-Log Plot</td>
-		<td>[-] Scatter Plot</td>
-		<td>[-] World Line</td>
-	</tr>
-	<tr>
-		<td>[-] Log Plot</td>
-		<td>[-] Scatterplott</td>
-		<td>[-] Complex Plot</td>
+		<td>[-] Fritsch Graph</td>
+		<td>[x] Fullerene</td>
+		<td>[-] Goldner-Harary Graph</td>
 	</tr>
 </table>
 
