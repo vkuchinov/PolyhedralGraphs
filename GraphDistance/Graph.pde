@@ -2,11 +2,12 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Arrays;
 import java.util.List;
 
 class Graph{
   
-       final float PRECISION = 1.5;
+       final float PRECISION = 3.0;
        
        ArrayList<Node> nodes; 
        PVector[] connections;
@@ -15,8 +16,8 @@ class Graph{
         
            //nodes have x,y values
            XML xml = loadXML(URL);
-           XML[] xmlPoints = xml.getChildren("circle");
-     
+           XML[] xmlPoints = xml.getChildren("ellipse");
+           
            nodes = new ArrayList<Node>();
   
            for (int p = 0; p < xmlPoints.length; p++) {
@@ -27,7 +28,7 @@ class Graph{
            
            //sorting nodes
            Collections.sort(nodes, compose(new sortByX(), new sortByY()));
-    
+           println(nodes.size());
            //connections node1, node2
            XML[] xmlLines = xml.getChildren("line");
     
@@ -70,10 +71,57 @@ class Graph{
          
        }
        
+       void getPhysicalDistance(int n1_, int n2_){
+         
+       }
+       
+       void getNodeDistance(int n1_, int n2_){
+         
+           //building path list where
+           //no return, no repitions
+           //if where is a crossroad (>= 2 ways) clone to children
+           //if path reaches destination > stop growing
+           //if path gets all nodes > stop growing
+           //if last node doesn't have any ways except parent > stop gwowing
+          
+           PathList paths = new PathList();
+           //paths.addAll((List)Arrays.asList(getNextNodes()))
+         
+       }
+       
        void Dijkstras(){
          
          
          
+       }
+       
+       void draw(){
+
+             for(int c = 0; c < connections.length; c++){
+               
+                 strokeWeight(1.0);
+                 stroke(0);
+                 line(nodes.get((int)connections[c].x).x, nodes.get((int)connections[c].x).y, nodes.get((int)connections[c].y).x, nodes.get((int)connections[c].y).y);
+               
+             }
+             
+             for(int n = 0; n < nodes.size(); n++){
+               
+                 strokeWeight(8.0);
+                 stroke(255, 0, 255);
+                 point(nodes.get(n).x, nodes.get(n).y);
+   
+             }
+
+         
+       }
+       
+       void selectNode(int n_){
+
+                 strokeWeight(10.0);
+                 stroke(0, 255, 255);
+                 point(nodes.get(n_).x, nodes.get(n_).y);
+
        }
   
 }
@@ -236,3 +284,20 @@ public <T> Comparator<T> compose(
     };
 }
 
+class Path{
+ 
+    int steps;
+    float distance;
+    
+    Path(){
+     
+    } 
+  
+}
+
+class PathList extends ArrayList<Path>{
+  
+   
+
+  
+}

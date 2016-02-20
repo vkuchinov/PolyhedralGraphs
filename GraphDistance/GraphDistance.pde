@@ -20,12 +20,22 @@ http://dl.acm.org/citation.cfm?id=316548 Thorup, 1999
 
 */
 
-final String URL = "data/TriakisTetrahedralGraph.svg";
+final String URL = "TriakisTetrahedralGraph.svg";
 Graph g;
 
 void setup(){
  
-     size(750, 750, "processing.core.PGraphicsRetina2D"); 
+     size(580, 580, "processing.core.PGraphicsRetina2D"); 
      g = new Graph(URL);
+     
+     g.draw();
+     g.selectNode(3);
+     g.selectNode(6);
+     
+     //get by dustance
+     g.getPhysicalDistance(3, 6);
+     
+     //get by # of nodes
+     g.getNodeDistance(3, 6);
   
 }
