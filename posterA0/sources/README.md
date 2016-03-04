@@ -105,13 +105,13 @@ based on
 	</tr>
 	<tr>
 		<td>[x] Triakis Tetrahedral Graph</td>
-		<td>[-] Truncated Cubical Graph</td>
-		<td>[-] Truncated Dodecahedral Graph</td>
+		<td>[x] Truncated Cubical Graph</td>
+		<td>[x] Truncated Dodecahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Truncated Icosahedral Graph</td>
+		<td>[x] Truncated Icosahedral Graph</td>
 		<td>[x] Truncated Octahedral Graph</td>
-		<td>[-] Truncated Tetrahedral Graph</td>
+		<td>[x] Truncated Tetrahedral Graph</td>
 	</tr>
 	<tr>
 		<td>[x] Tutte's Graph</td>
