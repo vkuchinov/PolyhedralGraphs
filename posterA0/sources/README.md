@@ -100,7 +100,7 @@ based on
 	</tr>
 	<tr>
 		<td>[-] Tetrahedral Graph</td>
-		<td>[-] Tetrakis Hexahedral Graph</td>
+		<td>[x] Tetrakis Hexahedral Graph</td>
 		<td>[x] Triakis Icosahedral Graph</td>
 	</tr>
 	<tr>
