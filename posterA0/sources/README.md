@@ -34,7 +34,7 @@ based on
 		<td>[-] Disdyakis Triacontahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Dodecahedral Graph</td>
+		<td>[x] Dodecahedral Graph</td>
 		<td>[-] Errera Graph</td>
 		<td>[x] Faulkner-Younger Graphs</td>
 	</tr>
