@@ -94,12 +94,12 @@ based on
 		<td>[-] Small Triakis Octahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Snub Cubical Graph</td>
+		<td>[x] Snub Cubical Graph</td>
 		<td>[x] Snub Dodecahedral Graph</td>
 		<td>[x] Soifer Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Tetrahedral Graph</td>
+		<td>[x] Tetrahedral Graph</td>
 		<td>[x] Tetrakis Hexahedral Graph</td>
 		<td>[x] Triakis Icosahedral Graph</td>
 	</tr>
