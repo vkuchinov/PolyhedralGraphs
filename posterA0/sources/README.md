@@ -49,8 +49,8 @@ based on
 		<td>[x] Grinberg Graphs</td>
 	</tr>
 	<tr>
-		<td>[-] Halin Graph</td>
-		<td>[-] Hamiltonian Game</td>
+		<td>[x] Halin Graph</td>
+		<td>[!] Hamiltonian Game</td>
 		<td>[x] Hatzel Graph</td>
 	</tr>
 	<tr>
