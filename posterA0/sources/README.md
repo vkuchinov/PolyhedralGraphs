@@ -86,10 +86,10 @@ based on
 	<tr>
 		<td>[-] Prism Graph</td>
 		<td>[x] Rhombic Dodecahedral Graph</td>
-		<td>[-] Schlegel Graph</td>
+		<td>[!] Schlegel Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Skeleton</td>
+		<td>[!] Skeleton</td>
 		<td>[x] Small Rhombicosidodecahedral Graph</td>
 		<td>[-] Small Triakis Octahedral Graph</td>
 	</tr>
