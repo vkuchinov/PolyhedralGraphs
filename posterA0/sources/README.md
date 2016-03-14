@@ -35,7 +35,7 @@ based on
 	</tr>
 	<tr>
 		<td>[x] Dodecahedral Graph</td>
-		<td>[-] Errera Graph</td>
+		<td>[x] Errera Graph</td>
 		<td>[x] Faulkner-Younger Graphs</td>
 	</tr>
 	<tr>
