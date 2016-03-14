@@ -79,8 +79,8 @@ based on
 		<td>[-] Platonic Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Polyhedral Graph</td>
-		<td>[-] Polytopal Graph</td>
+		<td>[!] Polyhedral Graph</td>
+		<td>[!] Polytopal Graph</td>
 		<td>[x] Poussin Graph</td>
 	</tr>
 	<tr>
@@ -91,7 +91,7 @@ based on
 	<tr>
 		<td>[!] Skeleton</td>
 		<td>[x] Small Rhombicosidodecahedral Graph</td>
-		<td>[-] Small Triakis Octahedral Graph</td>
+		<td>[x] Small Triakis Octahedral Graph</td>
 	</tr>
 	<tr>
 		<td>[x] Snub Cubical Graph</td>
