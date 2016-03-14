@@ -66,7 +66,7 @@ based on
 	<tr>
 		<td>[x] Icosidodecahedral Graph</td>
 		<td>[x] Kittell Graph</td>
-		<td>[-] Nonahedral Graph</td>
+		<td>[x] Nonahedral Graph</td>
 	</tr>
 	<tr>
 		<td>[-] Octahedral Graph</td>
