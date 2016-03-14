@@ -24,7 +24,7 @@ based on
 		<td>[-] Cuboctahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Decahedral Graph</td>
+		<td>[!] Decahedral Graph</td>
 		<td>[x] Deltoidal Hexecontahedral Graph</td>
 		<td>[-] Deltoidal Icositetrahedral Graph</td>
 	</tr>
