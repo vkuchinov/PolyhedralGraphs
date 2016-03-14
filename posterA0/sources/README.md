@@ -51,7 +51,7 @@ based on
 	<tr>
 		<td>[-] Halin Graph</td>
 		<td>[-] Hamiltonian Game</td>
-		<td>[-] Hatzel Graph</td>
+		<td>[x] Hatzel Graph</td>
 	</tr>
 	<tr>
 		<td>[x] Heawood Four-Color Graph</td>
