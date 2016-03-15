@@ -60,7 +60,7 @@ based on
 	</tr>
 	<tr>
 		<td>[x] Hexahedral Graph</td>
-		<td>[-] Icosahedral Graph</td>
+		<td>[x] Icosahedral Graph</td>
 		<td>[-] Icosian Game</td>
 	</tr>
 	<tr>
