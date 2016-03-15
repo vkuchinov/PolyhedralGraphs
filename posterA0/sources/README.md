@@ -20,8 +20,8 @@ based on
 	</tr>
 	<tr>
 		<td>[!] Cubic Polyhedral Graph</td>
-		<td>[-] Cubical Graph</td>
-		<td>[-] Cuboctahedral Graph</td>
+		<td>[x] Cubical Graph</td>
+		<td>[x] Cuboctahedral Graph</td>
 	</tr>
 	<tr>
 		<td>[!] Decahedral Graph</td>
@@ -39,7 +39,7 @@ based on
 		<td>[x] Faulkner-Younger Graphs</td>
 	</tr>
 	<tr>
-		<td>[-] Fritsch Graph</td>
+		<td>[x] Fritsch Graph</td>
 		<td>[x] Fullerene</td>
 		<td>[x] Goldner-Harary Graph</td>
 	</tr>
@@ -76,7 +76,7 @@ based on
 	<tr>
 		<td>[-] Pentahedral Graph</td>
 		<td>[-] Pentakis Dodecahedral Graph</td>
-		<td>[-] Platonic Graph</td>
+		<td>[x] Platonic Graph</td>
 	</tr>
 	<tr>
 		<td>[!] Polyhedral Graph</td>
@@ -84,7 +84,7 @@ based on
 		<td>[x] Poussin Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Prism Graph</td>
+		<td>[x] Prism Graph</td>
 		<td>[x] Rhombic Dodecahedral Graph</td>
 		<td>[!] Schlegel Graph</td>
 	</tr>
