@@ -6,7 +6,7 @@ based on
 	<tr>
 		<td>[x] Antiprism Graph</td>
 		<td>[x] Apollonian Network</td>
-		<td>[x] Archimedean Dual Graph</td>
+		<td>[!] Archimedean Dual Graph</td>
 	</tr>
 	<tr>
 		<td>[!] Archimedean Graph</td>
@@ -26,11 +26,11 @@ based on
 	<tr>
 		<td>[!] Decahedral Graph</td>
 		<td>[x] Deltoidal Hexecontahedral Graph</td>
-		<td>[-] Deltoidal Icositetrahedral Graph</td>
+		<td>[x] Deltoidal Icositetrahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Disdyakis Dodecahedral Graph</td>
-		<td>[-] Disdyakis Dodecahedron</td>
+		<td>[x] Disdyakis Dodecahedral Graph</td>
+		<td>[!] Disdyakis Dodecahedron</td>
 		<td>[-] Disdyakis Triacontahedral Graph</td>
 	</tr>
 	<tr>
@@ -129,4 +129,4 @@ based on
  
  [x] done [!] no information or general group [-] planning
 
-6 more to go
+4 more to go
