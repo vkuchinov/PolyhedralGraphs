@@ -74,8 +74,8 @@ based on
 		<td>[-] Pentagonal Icositetrahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Pentahedral Graph</td>
-		<td>[-] Pentakis Dodecahedral Graph</td>
+		<td>[x] Pentahedral Graph</td>
+		<td>[x] Pentakis Dodecahedral Graph</td>
 		<td>[x] Platonic Graph</td>
 	</tr>
 	<tr>
