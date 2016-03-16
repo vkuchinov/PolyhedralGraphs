@@ -69,8 +69,8 @@ based on
 		<td>[x] Nonahedral Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Octahedral Graph</td>
-		<td>[-] Pentagonal Hexecontahedral Graph</td>
+		<td>[x] Octahedral Graph</td>
+		<td>[x] Pentagonal Hexecontahedral Graph</td>
 		<td>[x] Pentagonal Icositetrahedral Graph</td>
 	</tr>
 	<tr>
