@@ -71,7 +71,7 @@ based on
 	<tr>
 		<td>[-] Octahedral Graph</td>
 		<td>[-] Pentagonal Hexecontahedral Graph</td>
-		<td>[-] Pentagonal Icositetrahedral Graph</td>
+		<td>[x] Pentagonal Icositetrahedral Graph</td>
 	</tr>
 	<tr>
 		<td>[x] Pentahedral Graph</td>
