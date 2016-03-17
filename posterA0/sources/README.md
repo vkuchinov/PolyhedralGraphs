@@ -44,8 +44,8 @@ based on
 		<td>[x] Goldner-Harary Graph</td>
 	</tr>
 	<tr>
-		<td>[-] Great Rhombicosidodecahedral Graph</td>
-		<td>[-] Great Rhombicuboctahedral Graph</td>
+		<td>[x] Great Rhombicosidodecahedral Graph</td>
+		<td>[x] Great Rhombicuboctahedral Graph</td>
 		<td>[x] Grinberg Graphs</td>
 	</tr>
 	<tr>
@@ -129,5 +129,3 @@ based on
  ** further research
  
  [x] done [!] no information or general group [-] planning
-
-4 more to go
