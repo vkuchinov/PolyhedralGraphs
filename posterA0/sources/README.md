@@ -61,7 +61,7 @@ based on
 	<tr>
 		<td>[x] Hexahedral Graph</td>
 		<td>[x] Icosahedral Graph</td>
-		<td>[-] Icosian Game</td>
+		<td>[!] Icosian Game**</td>
 	</tr>
 	<tr>
 		<td>[x] Icosidodecahedral Graph</td>
@@ -125,7 +125,8 @@ based on
 	</tr>
 </table>
 
- * Prism Graph
+ *  Prism Graph
+ ** further research
  
  [x] done [!] no information or general group [-] planning
 
