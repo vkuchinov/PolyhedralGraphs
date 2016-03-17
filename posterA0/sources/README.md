@@ -31,7 +31,7 @@ based on
 	<tr>
 		<td>[x] Disdyakis Dodecahedral Graph</td>
 		<td>[!] Disdyakis Dodecahedron</td>
-		<td>[-] Disdyakis Triacontahedral Graph</td>
+		<td>[x] Disdyakis Triacontahedral Graph</td>
 	</tr>
 	<tr>
 		<td>[x] Dodecahedral Graph</td>
